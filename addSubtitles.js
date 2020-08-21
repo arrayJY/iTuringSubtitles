@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         iTuringSubtitles
 // @namespace    https://github.com/arrayJY/iTuringSubtitles
-// @version      0.2
+// @version      0.2.1
 // @description  Add subtitles in ituring.com.cn.
 // @author       arrayJY
 // @match        https://www.ituring.com.cn/book/tupubarticle/*
 // @grant        none
 // @run-at       document-end
-// @require      http://code.jquery.com/jquery-latest.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
 // ==/UserScript==
 
 (function () {
